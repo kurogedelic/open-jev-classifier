@@ -1,7 +1,0 @@
-name = "open-jev-classifier"
-main = "worker.js"
-compatibility_date = "2026-09-26"
-
-# Set secrets with:
-# npx wrangler secret put JEV_API_KEY
-# npx wrangler secret put APP_PASSWORD
